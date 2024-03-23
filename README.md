@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Steven Iefel Flogio</h1>
 <h3 align="center">A Computer Science student from the Philippines</h3>
-<img align = "right" alt="goku" width"100" src="https://c.tenor.com/XfrqyR_-jzIAAAAC/anime-goku.gif">
+
 
 - 🌱 I’m passionate about **Computer Vision, Software Engineering, and Basketball**
 
