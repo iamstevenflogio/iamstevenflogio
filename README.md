@@ -1,7 +1,6 @@
 <h1 align="center">Hello, I'm Steven Iefel Flogio</h1>
-<h3 align="center">A Computer Science student from the Philippines</h3>
+<h3 align="center">Computer Science student</h3>
 
-- 🌱 I’m passionate about **Computer Vision, Software Engineering, and Basketball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
