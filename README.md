@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Steven Iefel Flogio</h1>
-<h3 align="center">Mapua Computer Science</h3>
+<h3 align="center">AI Engineer | MLOps Enthusiast</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
