@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm Steven Iefel Flogio</h1>
+<h2 align="center"> an AI Engineer in training</h3>
 <div align ="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGUwbnR6cWlzcW54aXdvb3A0aWFtY2dpdWhhZm5saXR6ejFxbXloNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g37mGHexrv5ug/giphy.gif" width="150" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw1MjA1YjZyMzB5dmVxMTh5bDlxNXg1N3JoMGJtOHFtb3kwNm4wbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FLV4z6krw8vO2ogoRM/giphy.gif" width="200" />
 </div>
-<h3 align="center"> an AI Engineer in training</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
