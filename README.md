@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Steven Iefel Flogio</h1>
-<h2 align="center">I want to be a Data Engineer!</h2>
+<h2 align="center">Aspiring Data Engineer, current Certified AI Practitioner</h2>
 <div align ="center">
 <br>
 
