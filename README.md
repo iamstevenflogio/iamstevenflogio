@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I'm Steven Iefel Flogio</h1>
 <h2 align="center">Aspiring Data Engineer, Data Scientist, AI Engineer</h2>
+<h3 align="center"> 6 foot 1, 200 lbs, Ambidextrous </h3>
 <h3 align="center"> --- </h3>
 <div align ="center">
 <br>
