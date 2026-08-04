@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Steven Iefel Flogio</h1>
-<h2 align="center">Aspiring Data Engineer, with Data Science training</h2>
-<h3 align="center">I dream of setting up pipelines so we can all do analysis</h3>
+<h2 align="center">Aspiring Data Engineer, Data Scientist, AI Engineer</h2>
+<h3 align="center"> --- </h3>
 <div align ="center">
 <br>
 
