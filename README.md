@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Steven Iefel Flogio</h1>
-<h2 align="center">Aspiring Data Engineer</h2>
+<h2 align="center">just gaining real experience</h2>
 <h3 align="center"> -- </h3>
 <h3 align="center"> --- </h3>
 <div align ="center">
